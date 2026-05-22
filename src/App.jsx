@@ -115,7 +115,7 @@ function App() {
           className="flex justify-center"
         >
           <img
-            src="public/profilepic1.jpeg"
+            src="/profilepic1.jpeg"
             alt="Profile Picture"
             className="relative w-72 h-72 object-cover rounded-2xl border border-white/10"
           />
