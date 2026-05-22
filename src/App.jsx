@@ -116,7 +116,7 @@ function App() {
         >
           <img
             src="public/profilepic1.jpeg"
-            alt="Profile"
+            alt="Profile Picture"
             className="relative w-72 h-72 object-cover rounded-2xl border border-white/10"
           />
         </motion.div>
