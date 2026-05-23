@@ -7,24 +7,25 @@ function App() {
     {
       title: "Portfolio",
       desc: "Personal portfolio highlighting my frontend development projects and skills..",
-      github: "https://github.com/yourusername/netflix-clone",
-      live: "",
+      github: "https://github.com/skywalker-arch/myportfolio",
+      live: "https://myportfolio-two-sigma-72.vercel.app/",
     },
     {
       title: "Movie Verse",
       desc: "Premium streaming-inspired web app with polished UI and responsive layouts.",
+      github:"https://github.com/skywalker-arch/MovieVerse",
       live: "https://movie-verse-one-pi.vercel.app/",
     },
     {
       title: "Weather App",
       desc: "Real-time weather app built with frontend APIs and JavaScript..",
-      github: "https://github.com/yourusername/house-listing",
+      github: "https://github.com/skywalker-arch/weather-app",
       live: "https://weather-app-ten-alpha.vercel.app/",
     },
     {
       title: "Landing Page",
       desc: "High-converting animated SaaS landing page with smooth transitions.",
-      github: "https://github.com/yourusername/landing-page",
+      github: "https://github.com/skywalker-arch/landing-page",
       live: "https://landing-page-lyart-phi-27.vercel.app/",
     },
   ];
@@ -100,10 +101,11 @@ function App() {
 
             <a
               href="/cv.pdf"
-              download
-              className="border border-cyan-400 px-6 py-3 rounded-xl hover:bg-cyan-400 hover:text-black hover:scale-105 transition-all duration-300"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block mt-6 px-8 py-4 bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-xl transition-all"
             >
-              Download CV
+              📄 Download My CV
             </a>
           </div>
         </motion.div>
