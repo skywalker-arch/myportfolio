@@ -5,6 +5,7 @@ import { ArrowRight, Code, Briefcase, User, Mail } from "lucide-react";
 function App() {
   const projects = [
     {
+      
       title: "Portfolio",
       desc: "Personal portfolio highlighting my frontend development projects and skills..",
       github: "https://github.com/skywalker-arch/myportfolio",
