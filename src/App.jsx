@@ -5,7 +5,7 @@ import { ArrowRight, Code, Briefcase, User, Mail } from "lucide-react";
 function App() {
   const projects = [
     {
-      
+
       title: "Portfolio",
       desc: "Personal portfolio highlighting my frontend development projects and skills..",
       github: "https://github.com/skywalker-arch/myportfolio",
@@ -24,6 +24,7 @@ function App() {
       live: "https://weather-app-ten-alpha.vercel.app/",
     },
     {
+      
       title: "Landing Page",
       desc: "High-converting animated SaaS landing page with smooth transitions.",
       github: "https://github.com/skywalker-arch/landing-page",
