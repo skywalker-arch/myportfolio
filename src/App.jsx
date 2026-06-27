@@ -23,8 +23,9 @@ function App() {
       github: "https://github.com/skywalker-arch/weather-app",
       live: "https://weather-app-ten-alpha.vercel.app/",
     },
+    
     {
-      
+
       title: "Landing Page",
       desc: "High-converting animated SaaS landing page with smooth transitions.",
       github: "https://github.com/skywalker-arch/landing-page",
