@@ -20,6 +20,7 @@ function App() {
     {
       title: "Weather App",
       desc: "Real-time weather app built with frontend APIs and JavaScript..",
+      
       github: "https://github.com/skywalker-arch/weather-app",
       live: "https://weather-app-ten-alpha.vercel.app/",
     },
