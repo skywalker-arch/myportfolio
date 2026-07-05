@@ -10,7 +10,6 @@ function App() {
       desc: "Personal portfolio highlighting my frontend development projects and skills..",
       github: "https://github.com/skywalker-arch/myportfolio",
       live: "https://myportfolio-two-sigma-72.vercel.app/",
-      
     },
     {
       title: "Movie Verse",
